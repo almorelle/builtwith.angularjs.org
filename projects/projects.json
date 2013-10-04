@@ -1609,6 +1609,25 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Spatwork",
+      "thumb": "spatwork/thumb.png",
+      "desc": "Small test application using few components I wanted to give a try. It's soccer oriented and is designed to keep scores.",
+	  "url": "https://github.com/almorelle/spatwork",
+	  "src": "https://github.com/almorelle/spatwork",
+      "submitter": "almorelle",
+      "submissionDate": "2013-10-04",
+      "tags": [
+        "Demo",
+        "CRUD",
+        "REST",
+        "RestX",
+        "mongoDB",
+        "Restangular",
+        "Boostrap",
+        "Font-Awesome"
+      ]
     }
   ]
 }
